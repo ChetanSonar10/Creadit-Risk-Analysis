@@ -1,4 +1,4 @@
-# Creadit-Risk-Analysis
+# Credit-Risk-Analysis
 
 NOTE: This project has been conducted as per Capital Adequacy, Regulations, and the Basel 2 Accord. The intention is to serve the best to everyone, from leaders to borrowers.
 
