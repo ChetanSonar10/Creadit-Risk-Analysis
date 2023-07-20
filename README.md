@@ -1,6 +1,8 @@
 # Creadit-Risk-Analysis
 
-NOTE: This project has been conducted as per Capital Adequacy, Regulations, and the Basel 2 Accord. The intention is to serve the best to everyone.
+NOTE: This project has been conducted as per Capital Adequacy, Regulations, and the Basel 2 Accord. The intention is to serve the best to everyone, from leaders to borrowers.
+
+The scope of this is to dive deep into various features of the data to explore the opportunities to help the financial institutions as well as the borrowers, after all the balance is important.
 
 The Credit Risk Analysis Project repository! This project is an in-depth exploration of credit risk assessment using machine learning techniques. Credit risk analysis plays a crucial role in financial institutions, helping them make informed decisions on extending credit to individuals and businesses.
 
